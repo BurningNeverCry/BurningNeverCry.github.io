@@ -19,7 +19,7 @@ NickName: 'Burning'
 webtitle: 'This is Burning'
 bio: 'Temporarily an ordinary programmer'
 about: true
-aboutyou: 'your introduction'
+aboutyou: 'nothing now'
 portraits: '/assets/profile.png' # your portraits image file path
 
 # SNS
@@ -67,7 +67,7 @@ disqus: false
 disqus_url: '' # https://abc.disqus.com/embed.js
 # 来必力评论
 livere: true
-livere_uid: 'MTAyMC80NTI5MC8yMTgwMw==' # MTAyMC8zNDI2OS8xMDgwNg==
+livere_uid: 'MTAyMC80NTI5MC8yMTgwMw==' # MTAyMC80NTI5MC8yMTgwMw==
 # Gitment评论 OAuth Application
 Gitment: false
 Gitment_owner: ''  # github用户名
