@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: 'Welcome to my home,my friend!'
+title: 'Hello,strangers!'
 description: 'You will gain knowledge not just about Internet here.'
 keywords: 'Internet, Love and share'
 url: 'https://whoisburning.cn' # your host
@@ -25,7 +25,7 @@ portraits: '/assets/profile.png' # your portraits image file path
 # SNS
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: 'mailto:abc@gmail.com'
+  mail: 'mailto:burningnevercry@gmail.com'
   weixin: '/assets/weqr.jpg' # 你的微信二维码存放的地址
   qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   github: 'https://github.com/BurningNeverCry'
@@ -67,7 +67,7 @@ disqus: false
 disqus_url: '' # https://abc.disqus.com/embed.js
 # 来必力评论
 livere: true
-livere_uid: 'MTAyMC8zNDI2OS8xMDgwNg==' # MTAyMC8zNDI2OS8xMDgwNg==
+livere_uid: 'MTAyMC80NTI5MC8yMTgwMw==' # MTAyMC8zNDI2OS8xMDgwNg==
 # Gitment评论 OAuth Application
 Gitment: false
 Gitment_owner: ''  # github用户名
