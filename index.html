@@ -1,0 +1,18 @@
+---
+layout: default
+title: Burning's
+page-title: Welcome to my home,my friend!
+home-title: your awesome home-title.
+description: You will gain knowledge not just about Internet here.
+---
+
+{% include header.html %}
+{% include boot.html %}
+<main>
+    {% include title.html %}
+    <ul class="post-list">
+      {% include posts_paginator.html %}
+    </ul>
+</main>
+{% include pageNav.html %}
+{% include footer.html %}
